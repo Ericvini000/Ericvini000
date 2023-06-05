@@ -1,4 +1,4 @@
-## Oi eu sou Eric Vinicius Felix Silva, chega de papo e me da o código!
+## Oi me chamo Eric Vinicius Felix Silva, chega de papo e me da o código!
 
 
 <div style="display: inline_block"><br>
