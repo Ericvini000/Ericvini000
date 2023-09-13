@@ -10,9 +10,11 @@
 
 ## Technologies
 
+### Linguagens
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-44475a?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-44475a?style=for-the-badge&logo=typescript) ![Python](https://img.shields.io/badge/Python-44475a?style=for-the-badge&logo=python) ![C#](https://img.shields.io/badge/C%23-44475a?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
-## Frameworks
+### Frameworks
 
 ![React](https://img.shields.io/badge/React-44475a?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/NodeJs-44475a?style=for-the-badge&logo=nodedotjs)
