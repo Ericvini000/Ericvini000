@@ -1,4 +1,6 @@
-## Oi me chamo Eric Vinicius Felix Silva, chega de papo e me da o código!
+# ERIC VINICIUS FELIX SILVA
+
+My name is Eric Vinicius Felix Silva and I am 19 years old. I love working with software development, always challenging myself on websites with Codewars or HackerRank to consolidate my knowledge, I know and practice several languages such as Javascript/Typescript, Node Js, Python, C#, SQL and other technologies. My biggest dream is to create something that contributes to the IT community
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericvini000&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -12,8 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
- 
+  ## Connect with me!
 <div> 
   <a href="https://www.instagram.com/_ericvini_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ericviniciusfelixsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
