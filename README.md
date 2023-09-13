@@ -1,6 +1,7 @@
 # ERIC VINICIUS FELIX SILVA
 
 > My name is Eric Vinicius Felix Silva and I am 19 years old. I love working with software development, always challenging myself on websites with Codewars or HackerRank to consolidate my knowledge, I know and practice several languages such as Javascript/Typescript, Node Js, Python, C#, SQL and other technologies. My biggest dream is to create something that contributes to the IT community.
+
 &nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericvini000&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
